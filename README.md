@@ -12,6 +12,8 @@
 
 ## What I Build
 
+<img src="./assets/section-divider-cat.svg" width="100%" alt="" />
+
 I build and ship full-stack products end to end: data layer, product logic, UI, deployment,
 and the boring reliability work after launch. Lately I am focused on AI systems that are
 grounded, inspectable, and useful outside a demo.
