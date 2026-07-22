@@ -29,6 +29,7 @@ Languages: English, Mandarin
 |---|---|
 | [jpluggagego](https://github.com/chengyileeca-byte/jpluggagego-public) | Live Japan luggage-delivery comparison and travel curation product across all 47 prefectures. Built and operated solo with Next.js, Cloudflare Workers, scheduled scrapers, and a feedback to GitHub Issues pipeline. |
 | [equity-thesis-agent](https://github.com/chengyileeca-byte/equity-thesis-agent) | LLM research agent that turns a ticker into an 8-dimension investment thesis with citation IDs enforced by schema, plus evals for groundedness, refusal, and consistency. |
+| [webxr-avatar-pipeline](https://github.com/chengyileeca-byte/webxr-avatar-pipeline) | Rig-agnostic MMD/VRM → WebXR pipeline: two avatars share one space install-free in a Quest browser, driven through a four-function rig interface. Self-verifying GLB → VRM 1.0 converter (bind-consistency gate, NaN self-scan) plus a headless offscreen render harness for objective, CI-style visual verification. |
 | [restaurant-analytics](https://github.com/chengyileeca-byte/restaurant-analytics) | POS analytics dashboard for restaurant owners: menu-engineering quadrants, RFM segmentation, and churn detection from raw CSV exports. |
 | [perfcheck](https://github.com/chengyileeca-byte/perfcheck) | Cross-platform hardware diagnostics focused on sustained-load throughput droop, thermal aging, GPU monitoring, and single-executable builds. |
 
