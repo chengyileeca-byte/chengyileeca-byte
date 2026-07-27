@@ -28,10 +28,14 @@ Languages: English, Mandarin
 | Project | What matters |
 |---|---|
 | [jpluggagego](https://github.com/chengyileeca-byte/jpluggagego-public) | Live Japan luggage-delivery comparison and travel curation product across all 47 prefectures. Built and operated solo with Next.js, Cloudflare Workers, scheduled scrapers, and a feedback to GitHub Issues pipeline. |
+| [subscription-hunter.com](https://subscription-hunter.com) | Live subscription-audit tool: check off your subscriptions in 30 seconds, see monthly/yearly/daily spend, and a price-hike sentinel that re-checks official prices monthly and emails you on increases. No signup, data stays in the browser. Cloudflare Workers, D1, KV, cron. |
+| [suangeinikan.com](https://suangeinikan.com) | Live eligibility checker for Taiwan's New Youth Housing Loan 3.0 (青安3.0): rules engine with 62 tests, grace-period payment disclosure, rate terminology aligned with official sources, plus long-tail SEO guide pages. Next.js static export on Cloudflare. |
 | [equity-thesis-agent](https://github.com/chengyileeca-byte/equity-thesis-agent) | LLM research agent that turns a ticker into an 8-dimension investment thesis with citation IDs enforced by schema, plus evals for groundedness, refusal, and consistency. |
 | [webxr-avatar-pipeline](https://github.com/chengyileeca-byte/webxr-avatar-pipeline) | Rig-agnostic MMD/VRM → WebXR pipeline: two avatars share one space install-free in a Quest browser, driven through a four-function rig interface. Self-verifying GLB → VRM 1.0 converter (bind-consistency gate, NaN self-scan) plus a headless offscreen render harness for objective, CI-style visual verification. |
 | [restaurant-analytics](https://github.com/chengyileeca-byte/restaurant-analytics) | POS analytics dashboard for restaurant owners: menu-engineering quadrants, RFM segmentation, and churn detection from raw CSV exports. |
 | [perfcheck](https://github.com/chengyileeca-byte/perfcheck) | Cross-platform hardware diagnostics focused on sustained-load throughput droop, thermal aging, GPU monitoring, and single-executable builds. |
+| [token-dashboard](https://github.com/chengyileeca-byte/token-dashboard) | Zero-dependency local dashboard unifying Claude Code and Codex token usage from raw session logs: cross-model cost equivalents via a maintained rate card, data-driven rate-limit windows that survive provider policy changes, CSV export. |
+| [kde-wayland-clicker](https://github.com/chengyileeca-byte/kde-wayland-clicker) | PyQt6 auto-clicker for KDE Plasma on Wayland via ydotool. Works around Wayland's missing absolute pointer positioning with corner-bump reset plus calibrated relative movement, and a global F8 hotkey read from /dev/input. |
 
 ## Stack
 
